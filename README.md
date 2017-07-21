@@ -13,8 +13,8 @@ Los _repositorios_ disponibles en este momento son:
 1. Numbered
 2. List
 
-- [Desatendido](http://github.com/emujica/unattended)
-- [Telegram](http://github.com/emujica/telegram_bot)
+- [Desatendido](http://github.com/emujicad/unattended)
+- [Telegram](http://github.com/emujicad/telegram_bot)
 
 La información de este archivo esta alojada en `README.md`
 
